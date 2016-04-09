@@ -1,0 +1,29 @@
+{
+  "name": "argvments",
+  "version": "0.0.0",
+  "description": "CLI argument parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/test-runner.sh"
+  },
+  "repository": "https://github.com/pjdietz/argvments",
+  "keywords": [
+    "cli",
+    "arguments",
+    "getopt",
+    "options",
+    "command",
+    "parse",
+    "parser",
+    "argv"
+  ],
+  "author": "PJ Dietz",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
+    "mocha-tap-reporter": "^0.1.3"
+  }
+}
